@@ -1,0 +1,26 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "Coursework for CSE341",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderson-robertp/CSE341.git"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "Robert Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderson-robertp/CSE341/issues"
+  },
+  "homepage": "https://github.com/anderson-robertp/CSE341#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
