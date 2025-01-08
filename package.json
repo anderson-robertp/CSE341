@@ -4,7 +4,8 @@
   "description": "Coursework for CSE341",
   "main": "server.js",
   "scripts": {
-    "test": "npm run dev"
+    "test": "npm run dev",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
