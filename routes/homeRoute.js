@@ -1,9 +1,9 @@
 const express = require('express');
-const { getName } = require('../controllers/nameController.js');
+const { nameCont } = require('../controllers/nameController.js');
 
 const router = express.Router();
 
 // Define the home route
-router.get('/', getName);
+router.get('/', nameCont);
 
 module.exports = router;
